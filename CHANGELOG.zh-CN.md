@@ -5,11 +5,13 @@
 ### Feats
 
 - `n-message-provider` 新增 `closable` 属性，关闭 [#795](https://github.com/TuSimple/naive-ui/issues/795)
+- `n-layout` 增加 `sider-placement` 属性，关闭 [#566](https://github.com/TuSimple/naive-ui/issues/566)
 
 ### Fixes
 
 - 修复 `n-avatar` 的缩放在使用 `v-show` 时不正确，关闭 [#779](https://github.com/TuSimple/naive-ui/issues/779)
 - 修复 `n-menu` 在手机端点击菜单的时候出现蓝色背景问题，关闭 [#799](https://github.com/TuSimple/naive-ui/issues/799)
+- 修复 `n-select` 可过滤的选择器失效，关闭 [#510](https://github.com/TuSimple/naive-ui/issues/510)
 
 ## 2.16.1 (2020-08-06)
 
